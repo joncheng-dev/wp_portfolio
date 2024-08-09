@@ -1,0 +1,24 @@
+# WordPress core files
+/wp-admin/
+/wp-includes/
+
+# PHPStorm or other IDEs
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# XAMPP specific
+/xampp/htdocs/wp-content/uploads/
+/xampp/htdocs/wp-content/cache/
+
+# Composer
+/vendor/
+
+# Logs
+*.log
+
+# Environment
+.env
